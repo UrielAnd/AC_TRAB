@@ -1,0 +1,41 @@
+Clock: 36
+    RS    | BUSY  | Clock |   OP   |   Vj  |   Vk  |   Qj  |   Qk  |   A   |
+
+16 Primeiros Registradores:
+Reg | Qi | Value
+  0 | None  |   3 
+  1 | None  |   8 
+  2 | None  |  11 
+  3 | None  |   3 
+  4 | None  |   3 
+  5 | None  |  88 
+  6 | None  |   3 
+  7 | None  |   3 
+  8 | None  |   3 
+  9 | None  |   3 
+ 10 | None  |   3 
+ 11 | None  |   3 
+ 12 | None  |   3 
+ 13 | None  |   3 
+ 14 | None  |   3 
+ 15 | None  |   3 
+
+16 Primeiras Celulas de Memoria:
+Mem | Qi | Value
+  0 | None  |   0 
+  1 | None  |   0 
+  2 | None  |   0 
+  3 | None  |   0 
+  4 | None  |   0 
+  5 | None  |   0 
+  6 | None  |   0 
+  7 | None  |   0 
+  8 | None  |   0 
+  9 | None  |   0 
+ 10 | None  |   0 
+ 11 | None  |   0 
+ 12 | None  |   0 
+ 13 | None  |   0 
+ 14 | None  |   0 
+ 15 | None  |   0 
+
